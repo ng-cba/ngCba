@@ -1,6 +1,6 @@
 ## Propósito
 
-Quienes formamos parte de NgCba (la Comunidad) nos comprometemos a mantener un ambiente confortable y seguro para todas las personas dentro de la comunidad, más allá de su identidad y expresión de género, orientación sexual, discapacidades, apariencia física, etnia, nacionalidad, religión (o falta de la misma), nivel socioeconómico u otras características personales. La comunidad no representa de ninguna forma afiliación o alineación alguna con algún partido político.
+Quienes formamos parte de NgCba (la Comunidad) nos comprometemos a mantener un ambiente confortable y seguro para todas las personas dentro de la comunidad, más allá de su identidad y expresión de género, orientación sexual, discapacidades, apariencia física, etnia, nacionalidad, religión (o falta de la misma), nivel socioeconómico u otras características personales. La comunidad no representa de ninguna forma afiliación o alineación alguna con algún partido político, ademas utilizamos lenguaje neutro.
 
 ## Objetivos
 
@@ -23,7 +23,6 @@ Los lugares en donde se lleven a cabo eventos de la comunidad pueden ser compart
 
 Ejemplos de comportamiento que contribuyen a crear un ambiente positivo:
 
-Utilizar lenguaje neutro.
 Respetar los distintos puntos de vista y experiencias.
 Aceptar las críticas constructivas.
 Mostrar empatía hacia quienes participan de las actividades.
@@ -35,9 +34,13 @@ Alcance
 
 Se espera que todos los participantes de la comunidad se atengan a este Código de Conducta en todos los lugares de encuentro de la comunidad –online o en persona– así como en todas las comunicaciones uno-a-uno relacionadas con actividades de la comunidad.
 
-Desde NgCba estaremos disponibles, en todo momento, para ayudar a las personas que asistan a resolver cualquier conflicto que pudiera ocurrir. Ante la menor duda, incomodidad o si notás que alguien está sufriendo una situación de acoso, no dudes en ponerte en contacto con los organizadores
+Desde NgCba estaremos disponibles, en todo momento, para ayudar a las personas que asistan a resolver cualquier conflicto que pudiera ocurrir. Ante la menor duda, incomodidad o si notás que alguien está sufriendo una situación de acoso, no dudes en ponerte en contacto con los organizadores.
 
-- [Santiago Javier Ruffino](santiagoruffino@gmail.com)
-- [Benjamin Lizarraga]()
-- [Fernando Miras]()
-- [Valeria Ibañez]()
+## Organizadores
+
+- Santiago Javier Ruffino]
+- Benjamin Lizarraga
+- Fernando Miras
+- Valeria Ibañez
+
+Email de contacto: angularcba@gmail.com
